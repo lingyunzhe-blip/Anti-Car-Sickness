@@ -1,1 +1,0 @@
-gradle\nplugins {\n id 'com.android.application' version '8.1.0' apply false\n}\n
